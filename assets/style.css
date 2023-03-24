@@ -35,8 +35,16 @@ p {
 }
 
 .card {
+<<<<<<< HEAD
   width: 80%;
   margin: 40px auto;
   border: 5px solid gray;
   box-shadow: 5px 10px #888888;
 }
+=======
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+  }
+>>>>>>> 9cecd2bb418c81a558cf401736ca27cca8cfd551
